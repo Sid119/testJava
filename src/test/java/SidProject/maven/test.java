@@ -20,7 +20,7 @@ public class test {
 
 	void sumOfNumber() {
 		sum = a + b;
-		System.out.println(sum);
+		System.out.println(sum)
 		System.out.println("Hello Sid")
 	}
 	
