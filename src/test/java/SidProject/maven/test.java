@@ -17,6 +17,12 @@ public class test {
 		System.out.println(sum);
 		System.out.println("Hello Sid");
 	}
+
+	void sumOfNumber() {
+		sum = a + b;
+		System.out.println(sum);
+		System.out.println("Hello Sid")
+	}
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
