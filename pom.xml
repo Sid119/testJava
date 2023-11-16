@@ -6,7 +6,7 @@
 
   <groupId>SidProject</groupId>
   <artifactId>maven</artifactId>
-  <version>0.0.1-SNAPSHOT
+  <version>0.0.0-SNAPSHOT</version>
 
   <name>maven</name>
   <!-- FIXME change it to the project's website -->
